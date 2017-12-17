@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/htdocs/js
+END
+extensions
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/htdocs/js/extensions
+END
+c3.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/htdocs/js/c3.js
+END
+c3.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/htdocs/js/c3.min.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/htdocs/js/require.js
+END

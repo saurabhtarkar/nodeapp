@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master
+END
+c3.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/c3.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/LICENSE
+END
+Gruntfile.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/Gruntfile.coffee
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/bower.json
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/.travis.yml
+END
+.editorconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/.editorconfig
+END
+karma.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/karma.conf.js
+END
+c3.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/c3.css
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/README.md
+END
+c3.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/c3.min.js
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/.jshintrc
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/package.json
+END
+d3.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/d3.min.js
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/.gitignore
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/CONTRIBUTING.md
+END
+component.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/component.json
+END
+c3.min.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/c3.min.css
+END

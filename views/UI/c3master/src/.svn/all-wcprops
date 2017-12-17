@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/config.js
+END
+class.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/class.js
+END
+arc.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/arc.js
+END
+ua.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/ua.js
+END
+domain.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/domain.js
+END
+c3.axis.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/c3.axis.js
+END
+api.chart.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.chart.js
+END
+size.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/size.js
+END
+subchart.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/subchart.js
+END
+api.axis.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.axis.js
+END
+drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/drag.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/util.js
+END
+color.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/color.js
+END
+api.flow.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.flow.js
+END
+interaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/interaction.js
+END
+api.data.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.data.js
+END
+title.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/title.js
+END
+type.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/type.js
+END
+api.transform.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.transform.js
+END
+region.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/region.js
+END
+zoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/zoom.js
+END
+api.category.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.category.js
+END
+data.load.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/data.load.js
+END
+api.focus.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.focus.js
+END
+data.convert.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/data.convert.js
+END
+api.show.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.show.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/format.js
+END
+tail.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/tail.js
+END
+polyfill.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/polyfill.js
+END
+api.grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.grid.js
+END
+api.selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.selection.js
+END
+api.tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.tooltip.js
+END
+cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/cache.js
+END
+shape.bar.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/shape.bar.js
+END
+axis.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/axis.js
+END
+api.group.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.group.js
+END
+api.legend.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.legend.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/data.js
+END
+category.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/category.js
+END
+api.x.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.x.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/text.js
+END
+grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/grid.js
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/selection.js
+END
+api.color.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.color.js
+END
+shape.line.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/shape.line.js
+END
+clip.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/clip.js
+END
+api.load.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.load.js
+END
+scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/scale.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/core.js
+END
+tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/tooltip.js
+END
+api.region.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.region.js
+END
+api.zoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/api.zoom.js
+END
+legend.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/legend.js
+END
+shape.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/shape.js
+END
+head.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CRM/MVP/EBT/!svn/ver/1336/trunk/Code/ideaspot/c3master/src/head.js
+END

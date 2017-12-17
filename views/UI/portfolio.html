@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>To-Do</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+  <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="assets/keen-dashboards.css" />
+  <link rel="stylesheet" href="datatable/jquery.dataTables.min.css">
+  <link href="c3master/c3.css" rel="stylesheet" type="text/css/">
+  <link rel="stylesheet" href="assets/bootstrap-select-1.12.4/dist/css/bootstrap-select.css">
+   <link href="./bootstrap_timepicker/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="./bootstrap_timepicker/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.4.2/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/select/1.2.3/css/select.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jqc-1.12.3/dt-1.10.16/b-1.4.2/sl-1.2.3/datatables.min.css"/>
+  <link rel="stylesheet" type="text/css" href="Editor-1.6.5/css/editor.dataTables.css">
+    <!-- <link rel="stylesheet" type="text/css" href="editor/css/dataTables.editor.css"> -->
+    <link rel="stylesheet" type="text/css" href="">
+</head>
+<body class="application"  >
+
+  <div class="navbar  navbar-inverse navbar-fixed-top" role="navigation">
+    <!-- <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="navbar-brand" href="./">GRB</a>
+      </div>
+      <div class="navbar-collapse collapse"> -->
+        <a class="navbar-brand" style="font-size: 20px" >Task Management Dashboard</a>
+        <ul class="nav navbar-nav navbar-right">
+          
+          <li><a  style="font-size: 20px" href="index.html">Home</a></li>
+          <li><a style="font-size: 20px" href="completedTasks.html">Completed / Archieved tasks</a></li>
+          <li><a style="font-size: 20px" href="">Misc</a></li>
+          <img src="./images/task.png"  style="height: 55px; " align="right">
+        </ul>
+
+        
+      </div>
+    </div> 
+  </div>
+ 
+
+  </div>
+<div ><br><br>
+  <div class="container">
+  <form>
+
+    <div class="form-group row has-success">
+      <div class="col-md-20">Project
+        <textarea rows="6" style="font-size: 20px" cols="100" type="text" size="1000" class="form-control form-control-success" id="inputHorizontalSuccess" readonly="readonly">Aadhaar based authentication APIs Development: These(e-KYC, AUTH, e-Sign) are APIs exposed by the Government of India wherein a user using his biometric/OTP can be authenticated by the UIDAI's authentication mechanism. We developed a internal common gateway for Mahindra Comviva which can be used for any product's feature enhancement with respect to the user on-boarding perspective. 
+        Link publicly accesible: apidoc //http:125.16.139.21:8080</textarea>
+        
+        </div>
+       <div class="col-md-20">Project
+        <textarea rows="3" style="font-size: 20px" cols="100" type="text" size="1000" class="form-control form-control-success" id="inputHorizontalSuccess" readonly="readonly">Developed internal Hackathon portal with features such as registration, whitepaper submission, login /editing(token based)..  Link : //http:125.16.139.21</textarea>
+        
+        </div>
+       <div class="col-md-20">Additional feature for Task Management: (Which I thought but couldn't complete:)
+        <textarea rows="4" style="font-size: 20px" cols="100" type="text" size="1000" class="form-control form-control-success" id="inputHorizontalSuccess" readonly="readonly">1. Scheduler for due-date of the task: this can be achieved using the node-scheuler/cron and job - task must be scheduled to trigger a urgent KPI (Key performance index to perform the task)or further customisation from the user. 
+        2. Statistics of the tasks w.r.t status, priority. </textarea>d
+        
+        </div>
+      </div>
+    </div>
+  </form>
+  <!-- <label class="form-control-label " for="inputSuccess1">Input with success</label> -->
+  <h3></p>
+</div>  
+
+    <!-- <button type="submit" class="btn btn-default" id="testingData">Submit</button><br> -->
+
+<script type="text/javascript" src="assets/jquery.min.js"></script>
+<script type="text/javascript" src="assets/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="assets/holder.js"></script>
+<script>
+  Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
+</script>
+<script type="text/javascript" src="assets/keen.min.js"></script>
+<script type="text/javascript" src="assets/meta.js"></script>
+<script src="datatable/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="c3master/d3.min.js"></script>
+<script type="text/javascript" src="c3master/c3.js"></script>
+<script src="graphs/charts.js"></script>
+<script src="assets/bootstrap-select-1.12.4/dist/js/bootstrap-select.js"></script>
+<!-- <script type="text/javascript" src="./bootstrap_timepicker/jquery/jquery-1.8.3.min.js" charset="UTF-8"></script> -->
+<script type="text/javascript" src="./bootstrap_timepicker/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="./bootstrap_timepicker/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="./bootstrap_timepicker/js/locales/bootstrap-datetimepicker.fr.js" charset="UTF-8"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.12.4.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.4.2/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/select/1.2.3/js/dataTables.select.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jqc-1.12.3/dt-1.10.16/b-1.4.2/sl-1.2.3/datatables.min.js"></script>
+<script type="text/javascript" src="Editor-1.6.5/js/dataTables.editor.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/buttons/1.2.1/js/buttons.print.min.js"></script>
+<script type="text/javascript">
+var editor; // use a global for the submit and return data rendering in the examples
+ 
+// $(document).ready(function() {
+  
+//     var editor; // use a global for the submit and return data rendering in the examples
+ 
+$(document).ready(function() {
+
+
+</script>
+
+</body>
+</html>
